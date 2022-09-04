@@ -1,0 +1,2 @@
+# VGCStuff
+Pokemon VGC Related
